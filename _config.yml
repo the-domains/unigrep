@@ -1,0 +1,14 @@
+layout_spectrum: 0.7335977181792259
+typography_spectrum: 0.8305565451737493
+color:
+  brandStrength: 0.03901084209792316
+  lightness: 0.4249178245663643
+  saturation: 0.16506766504608095
+  rhythmicContrast: 0.046317954547703266
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Unigrep
