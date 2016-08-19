@@ -6,9 +6,9 @@ color:
   saturation: 0.16506766504608095
   rhythmicContrast: 0.046317954547703266
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#1F1F1F'
+    - '#646464'
+    - '#989898'
+    - '#E2FFFF'
+    - '#4BACD6'
 name: Unigrep
