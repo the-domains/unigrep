@@ -16,5 +16,8 @@ navigation:
   - name: Home
     id: e15489cb-7a2f-40e4-8028-223b22fb62ea
     type: content
+  - name: About
+    id: c1e868f9-03f9-4dfc-a7a0-e6ffd5d76e91
+    type: content
 title: Unigrep
 description: Take your business to the cloud
