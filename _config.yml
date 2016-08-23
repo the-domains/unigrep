@@ -22,5 +22,8 @@ navigation:
   - name: About
     id: c1e868f9-03f9-4dfc-a7a0-e6ffd5d76e91
     type: content
+  - name: Support
+    id: 809ce313-f3c9-4b06-9d1f-4ea142e61b7c
+    type: content
 title: Unigrep
 description: Take your business to the cloud
