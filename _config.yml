@@ -12,5 +12,9 @@ color:
     - '#4BACD6'
 layout_spectrum: 0.7335977181792259
 name: Unigrep
+navigation:
+  - name: Home
+    id: e15489cb-7a2f-40e4-8028-223b22fb62ea
+    type: content
 title: Unigrep
 description: Take your business to the cloud
