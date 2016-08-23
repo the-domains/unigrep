@@ -1,16 +1,16 @@
-typography_spectrum: 0.8305565451737493
+layout_spectrum: 0.24205290852114558
+typography_spectrum: 0.21276473812758923
 color:
-  brandStrength: 0.03901084209792316
-  lightness: 0.4249178245663643
-  saturation: 0.16506766504608095
-  rhythmicContrast: 0.046317954547703266
+  brandStrength: 0.008519567549228668
+  lightness: 0.573256725911051
+  saturation: 0.5589883232023567
+  rhythmicContrast: 0.4809210761450231
   brandColors:
-    - '#1F1F1F'
-    - '#646464'
-    - '#989898'
-    - '#E2FFFF'
-    - '#4BACD6'
-layout_spectrum: 0.7335977181792259
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/65ef6ee3-8f9a-48bb-8e8c-7c1e004dd012.png
 name: Unigrep
