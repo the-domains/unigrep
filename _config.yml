@@ -11,6 +11,8 @@ color:
     - '#E2FFFF'
     - '#4BACD6'
 layout_spectrum: 0.7335977181792259
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/65ef6ee3-8f9a-48bb-8e8c-7c1e004dd012.png
 name: Unigrep
 navigation:
   - name: Home
@@ -25,5 +27,7 @@ navigation:
   - name: About
     id: c1e868f9-03f9-4dfc-a7a0-e6ffd5d76e91
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6679ed90-8a84-4dc8-a4ae-9f9084fee0de.png
 title: Unigrep
 description: Take your business to the cloud
